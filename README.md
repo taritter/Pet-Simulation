@@ -1,4 +1,4 @@
-# M3OEP-taritter-ffeeney
+# Pet Simulation
 
 Freyja Feeney and Tess Ritter
 
